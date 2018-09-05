@@ -1,4 +1,4 @@
-# xhw-h5
+# h5 app
 
 > A Vue.js project
 
